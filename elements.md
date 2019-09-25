@@ -11,7 +11,7 @@
  * czerwone/pomaranczowe - 1
  2. damsko-meskie
  * czarne/niebieskie - 1
- * pomaranczowy - 1
+ * zolte - 1
  * czerwone  - 2
  * zielone - 1
  
