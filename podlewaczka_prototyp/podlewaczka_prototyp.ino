@@ -23,17 +23,18 @@
 */
 
 #define s 1000
+#define SIGNAL_PIN 13
 
 // the setup function runs once when you press reset or power the board
 void setup() {
   // initialize digital pin LED_BUILTIN as an output.
-  pinMode(LED_BUILTIN, OUTPUT);
+  pinMode(SIGNAL_PIN, OUTPUT);
 }
 
 // the loop function runs over and over again forever
 void loop() {
-  digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
+  digitalWrite(SIGNAL_PIN, HIGH);   // turn the LED on (HIGH is the voltage level)
   delay(5 * s);                       // wait for a second
-  digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
+  digitalWrite(SIGNAL_PIN, LOW);    // turn the LED off by making the voltage LOW
   delay(3 * s);                       // wait for a second
 }
