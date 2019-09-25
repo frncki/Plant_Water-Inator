@@ -3,22 +3,17 @@
  * Arduino Uno
  * Modul zasilania zasilacza 12V 5V i 3,3V AMS1117
  * Przekaznik JQC-3FF-S-Z-5V - cewka 5V, styki 10A/250VAC
- 
- ⋅⋅⋅lub Modul Regulatora PWM IRF520 - mosfet - do 5A i 24V
- 
+ lub Modul Regulatora PWM IRF520 - mosfet - do 5A i 24V
  * Elektrozawor 12V; 0.02~0.8MPa; z szybkozlaczem
  ##### Specjalnie dla Janka lista kabelkow
  1. damsko-damskie
- ⋅⋅* czarne/niebieskie - 2
- ⋅⋅* czerwone/pomaranczowe - 1
+ * czarne/niebieskie - 2
+ * czerwone/pomaranczowe - 1
  2. damsko-meskie
- 2. Another item
- ⋅⋅* Unordered sub-list.
- 1. Actual numbers don't matter, just that it's a number
- ⋅⋅* czarne/niebieskie - 1
- ⋅⋅* pomaranczowy - 1
- ⋅⋅* czerwone  - 2
- ⋅⋅* zielone - 1
+ * czarne/niebieskie - 1
+ * pomaranczowy - 1
+ * czerwone  - 2
+ * zielone - 1
  
  ### Misc
  * tuby kartonowe ø10cm
