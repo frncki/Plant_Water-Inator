@@ -12,6 +12,9 @@
  ⋅⋅* czarne/niebieskie - 2
  ⋅⋅* czerwone/pomaranczowe - 1
  2. damsko-meskie
+ 2. Another item
+ ⋅⋅* Unordered sub-list.
+ 1. Actual numbers don't matter, just that it's a number
  ⋅⋅* czarne/niebieskie - 1
  ⋅⋅* pomaranczowy - 1
  ⋅⋅* czerwone  - 2
